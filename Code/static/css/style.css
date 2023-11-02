@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-size: 100%;
     background: #fff;
-	font-family: 'Thasadith', sans-serif;
+	font-family: 'roboto';
 }
 
 html {
@@ -16,7 +16,8 @@ body a {
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
-	font-family: 'Thasadith', sans-serif;
+	font-family: 'roboto';
+
 }
 
 body img {
@@ -372,7 +373,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url(../images/hero.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
