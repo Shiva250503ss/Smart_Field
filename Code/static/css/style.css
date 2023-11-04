@@ -498,9 +498,9 @@ p.about-text {
     line-height: 30px;
     text-transform: uppercase;
 }
-.feature-grids  p {
+/* .feature-grids  p {
     letter-spacing: 1px;
-}
+} */
 /*-- //about --*/
 
 /*-- core grids --*/
