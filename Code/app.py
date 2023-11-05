@@ -165,7 +165,7 @@ def fertilizer_recommendation():
 
 @ app.route('/crop-predict', methods=['POST'])
 def crop_prediction():
-    title = 'Harvestify - Crop Recommendation'
+    title = 'Smart Fields - Crop Recommendation'
 
     if request.method == 'POST':
         N = int(request.form['nitrogen'])
@@ -194,7 +194,7 @@ def crop_prediction():
 
 @ app.route('/fertilizer-predict', methods=['POST'])
 def fert_recommend():
-    title = 'Harvestify - Fertilizer Suggestion'
+    title = 'Smart Fields - Fertilizer Suggestion'
 
     crop_name = str(request.form['cropname'])
     N = int(request.form['nitrogen'])
@@ -238,7 +238,7 @@ def fert_recommend():
 
 @app.route('/disease-predict', methods=['GET', 'POST'])
 def disease_prediction():
-    title = 'Harvestify - Disease Detection'
+    title = 'Smart Fields - Disease Detection'
 
     if request.method == 'POST':
         if 'file' not in request.files:
