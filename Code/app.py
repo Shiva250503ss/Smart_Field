@@ -131,7 +131,7 @@ app = Flask(__name__)
 
 @ app.route('/')
 def home():
-    title = 'Harvestify - Home'
+    title = 'Smart Fields - Home'
     return render_template('index.html', title=title)
 
 # render crop recommendation form page
@@ -139,7 +139,7 @@ def home():
 
 @ app.route('/crop-recommend')
 def crop_recommend():
-    title = 'Harvestify - Crop Recommendation'
+    title = 'Smart Fields - Crop Recommendation'
     return render_template('crop.html', title=title)
 
 # render fertilizer recommendation form page
@@ -147,7 +147,7 @@ def crop_recommend():
 
 @ app.route('/fertilizer')
 def fertilizer_recommendation():
-    title = 'Harvestify - Fertilizer Suggestion'
+    title = 'Smart Fields - Fertilizer Suggestion'
 
     return render_template('fertilizer.html', title=title)
 
