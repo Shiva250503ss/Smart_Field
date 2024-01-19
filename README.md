@@ -53,6 +53,10 @@ Smart Field is not just a system; it's a visionary companion for modern farmers,
 
 <img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/crop_output.jpg">
 
+### Light Intensity Monitoring
+
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/LDR_Output.jpg">
+
 ## 🚜 Cultivating Excellence
 
 Join us in this agrarian revolution! To run the Smart Field application locally.
