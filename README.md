@@ -37,19 +37,19 @@ Smart Field is an intelligent agricultural system designed to assist farmers in 
 
 - **Plant Disease Detection:**
 
-<img align="center" alt="coding" width="700" src="[output screenshots/plant_disease_input.jpg](https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/plant_disease_input.jpg)">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/plant_disease_input.jpg">
 
-<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/plant_disease_output.jpg">
 
 - **Fertiliser Suggestion:**
 
-<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/fertiliser_input.jpg">
 
-<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/fertiliser_output.jpg">
 
 - **Crop Suggestion:**
 
-<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/crop_input.jpg">
 
-<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/crop_output.jpg">
   
