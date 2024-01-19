@@ -1,6 +1,6 @@
 # Smart Field: Intelligent Agricultural System
+<img align="center" alt="coding" width="400" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/Code/static/images/smartfields.jpg">
 
-![logo](https://github.com/Shiva250503ss/Smart_Field/blob/main/Code/static/images/smartfields.jpg)
 
 Smart Field is an intelligent agricultural system designed to assist farmers in making data-driven decisions for enhanced crop yield and sustainable farming practices. The web application incorporates plant disease detection, crop recommendation, and fertilizer suggestion functionalities.
 
@@ -30,4 +30,4 @@ Smart Field is an intelligent agricultural system designed to assist farmers in 
 
 - **Homepage:**
 
-<img align="center" alt="coding" width="1000" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
+<img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/homepage.jpg">
